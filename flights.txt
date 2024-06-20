@@ -1,0 +1,4 @@
+flightId, isLocal, isDirect, departureLoc, arrivalLoc, indirectLoc, departureTime, arrivalTime, totalHours, flightCost, bookedSeats
+1211,no,yes,Lahore,NewYork,Dubai,10:00,2:00,16.000000,352000,[]
+988,yes,no,Lahore,Karachi,-,11:00,12:00,1.000000,10500,[]
+4321,yes,no,Islamabad,Karachi,-,11:00,13:00,2.000000,21000,[]
